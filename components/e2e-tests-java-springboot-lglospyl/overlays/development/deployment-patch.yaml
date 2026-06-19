@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/rhtap_qe/e2e-tests-java-springboot-lglospyl:98aea53e48c2f21d200228af54a97cbd7af6e8f7
+        - image: quay.io/rhtap_qe/e2e-tests-java-springboot-lglospyl:77344bd343d3f48e60009a68bd140e4b12a211b7
           name: container-image
